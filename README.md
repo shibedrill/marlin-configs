@@ -1,21 +1,40 @@
-# Marlin Configurations
+# This repository has been archived.
+## Further Development
+Development is not discontinued! All further development will occur at [my personal Git repository.](https://git.shibedrill.site/shibedrill)
+## Microsoft does not deserve your patronage.
 
-## License Notice
+- Microsoft, its partners, its employees, its leadership, and its subsidiaries are all complicit (if not eagerly helpful and instrumental) in the shameless genocide of Palestinians, and the fascist persecution of anyone who dares defy or condemn such cruelty. It has directly provided cloud infrastructure and AI services to the Israeli Defense Force, and has cooperated with the FBI to identify individuals who have protested the current occupation of Palestine and the imminent extermination of all of its inhabitants.
+- Microsoft willingly and knowingly associates and partners with Palantir, a digital data broker that is known to cooperate with the Trump administration as part of its campaign of terror and persecution against immigrants, or anyone else deemed an enemy of the State.
+- Microsoft willingly cooperates with Twitter and its AI division, "xAI". Twitter is owned by the notorious Nazi  Elon Musk, and his AI "Grok" has engaged in claims of "white genocide", Holocaust denial, and on multiple occasions, referred to itself as "Mecha-Hitler", all at the behest of Musk.
 
-This code is not mine. It is a derivative of Marlin's [maintained example configurations](https://github.com/MarlinFirmware/Configurations/tree/bugfix-2.1.x/config/examples/). I altered it slightly on December 26th, 2024, to work with my modified printer. The original license, along with this notice, are provided in order to conform to the terms of the original code's license.
+As such, I am discontinuing my presence on GitHub. If you value the lives and liberties of your fellow humans- both here and abroad- I advise you do the same.
 
-## About
+### What you can do to help
 
-This is a set of Marlin configuration files for my modified Ender 3 Pro. The relevant modifications include:
+- **Boycott any and all GitHub services or products.**
+	- GitHub Enterprise
+	- GitHub CoPilot
+	- GitHub repository services
+	- GitHub Sponsors
+	- Any licensed merchandise
+- **Boycott any and all Microsoft services or products.**
+	- Microsoft Office
+	- Microsoft 365
+	- Microsoft Copilot
+	- Microsoft Azure
+	- Microsoft Windows
+	- Microsoft Surface PCs
+	- Microsoft Copilot+ PCs
+- **Boycott any and all Xbox products.**
+	- Xbox consoles
+	- Xbox console accessories (such as controllers)
+	- Xbox games
+	- Xbox Live
+	- Xbox Gamepass
+	- Any licensed merchandise
+- **Boycott any and all Minecraft products.**
+	- Minecraft (game)
+	- Minecraft Bedrock credits (MineCoins)
+	- Any licensed merchandise
 
-- A filament runout sensor
-- A BLtouch bed leveling probe
-- A BigTreeTech SKR Mini E3 3.0 mainboard
-
-I had to modify the configuration files to get the sensors working properly, so in order to avoid having to remember all my modifications when recompiling, I decided to commit the code to a repository.
-
-## Reuse
-
-Feel free to use this configuration on your own printer, but only if it is the same exact printer with the same exact mainboard. If you don't have a BLtouch, be careful to ensure you comment out all the options relevant to Z-homing with the probe. Otherwise, it may dig the nozzle into the bed while homing the Z axis.
-
-If you are making your own changes, be sure to look through the license before publishing them.
+This list is non exhaustive.
